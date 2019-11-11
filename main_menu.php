@@ -21,7 +21,7 @@
         <a class="li_css_a" href="profile">Profile</a>
     </li>
     <li class="li_css">
-        <a class="li_css_a" href="email">
+        <a class="li_css_a" href="">
             <?php
                 print $_SESSION['email'];
             ?>
